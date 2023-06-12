@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from 'react'
 import './App.css'
-import Header from './components/header'
+import Header from './components/Header'
 import UserForm from './components/UserForm'
 import axios from 'axios'
 import UserList from './components/UserList'
